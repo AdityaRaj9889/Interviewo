@@ -1,4 +1,4 @@
-package com.example.interview_ai
+package com.clooudcode.interviewo
 
 import io.flutter.embedding.android.FlutterActivity
 
