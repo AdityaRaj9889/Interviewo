@@ -1,0 +1,2 @@
+/Users/nikhilprasad/Downloads/interview_ai/android/app/.cxx/Debug/1f1j6c2u/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/nikhilprasad/Downloads/interview_ai/android/app/.cxx/Debug/1f1j6c2u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
