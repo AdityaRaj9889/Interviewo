@@ -10,7 +10,7 @@ Interviewo is an AI-powered interview preparation application that helps users p
 
 |            Home           |          Mock Interview        |         Chat Interview        |
 | :-----------------------: | :----------------------------: | :-------------------------: |
-| ![](screenshots/home.png) | ![](screenshots/mock.png)..... | ![](screenshots/chat.png) |
+| ![](screenshots/home.png) | ![](screenshots/mock.png) | ![](screenshots/chat.png) |
 
 ---
 
